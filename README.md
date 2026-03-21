@@ -29,5 +29,3 @@ http://localhost:8080
 ## 👨‍💻 Author
 Nguyen Trong Phuc
 
-
-Nguyen Trong Phuc
